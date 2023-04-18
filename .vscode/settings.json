@@ -1,0 +1,10 @@
+{
+    "gotoSymbolStack.currentStackPosition": 0,
+    "gotoSymbolStack.maxStackPosition": 0,
+    "gotoSymbolStack.filePositionInfo": [],
+    "prettier.enable": true,
+    "prettier.singleQuote": false,
+    "path-intellisense.mappings": {
+        "@": "${workspaceRoot}/src"
+    }
+}
