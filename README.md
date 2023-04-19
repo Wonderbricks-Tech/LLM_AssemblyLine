@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/89369032/232462002-491b87f9-0795-4d1d-
 
 1 Installation
 ```
-git clone https://github.com/The-WB-Tech/LLM_AssemblyLine.git
+git clone https://github.com/Wonderbricks-Tech/LLM_AssemblyLine.git
 npm install
 ```
 
