@@ -7,7 +7,7 @@ LLM_AssemblyLine is a tool designed to empower users with little to no programmi
 **About us** https://www.wonderbricks.com/ 
 
 
-https://github.com/Wonderbricks-Tech/LLM_AssemblyLine/blob/main/static/demo.mp4
+https://user-images.githubusercontent.com/89369032/232462002-491b87f9-0795-4d1d-bb94-f8430118e398.mp4
 
 
 
